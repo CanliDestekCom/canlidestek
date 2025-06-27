@@ -1,0 +1,1 @@
+// cerez-politikasi.tsx

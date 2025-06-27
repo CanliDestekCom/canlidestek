@@ -1,0 +1,1 @@
+// lib/firebaseConfig.ts

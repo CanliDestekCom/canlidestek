@@ -1,0 +1,1 @@
+// psikologlar.tsx
